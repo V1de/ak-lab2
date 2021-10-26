@@ -1,0 +1,4 @@
+C:/Users/derac/OneDrive/Рабочий стол/lab2/build/CMakeFiles/Calculator.dir
+C:/Users/derac/OneDrive/Рабочий стол/lab2/build/CMakeFiles/program.dir
+C:/Users/derac/OneDrive/Рабочий стол/lab2/build/CMakeFiles/edit_cache.dir
+C:/Users/derac/OneDrive/Рабочий стол/lab2/build/CMakeFiles/rebuild_cache.dir
